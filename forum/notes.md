@@ -1,0 +1,1 @@
+sudo /Applications/XAMPP/xamppfiles/bin/mysql.server start
